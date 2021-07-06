@@ -125,4 +125,3 @@ Or run the app on simulator using Ionic CLI
 ```
     $ ionic cordova run ios --target="iPhone-6s"
 ```
-
