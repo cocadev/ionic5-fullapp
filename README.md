@@ -1,4 +1,4 @@
-#  Ionic 5 Full App - PRO Package
+#  Ionic 5 Full App - PRO
 
 ### Check the full documentation on https://enappd-apps.gitbook.io/ionic4fullapp/
 
